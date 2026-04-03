@@ -1,0 +1,1 @@
+from EmotionDetectionemotion_detection import emotion_detector
